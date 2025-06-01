@@ -46,5 +46,7 @@ I deployed a static site lab environment where I reconstructed the Target attack
 <li><b>Command and Control (C2)</b> – Fallback channels</li>
 <li><b>Actions on Objectives</b> – Data from local system</li>
 <br>
-Outcome:
+
+https://github.com/AdamuHassanAli/Cyber-Kill-Chain/blob/main/Images/Cyber%20Kill%20Chain%20Answer.jpeg?raw=true
+<h3>Outcome:</h3>
 This exercise strengthened my incident analysis and threat modeling skills. I gained a practical understanding of how advanced persistent threats (APTs) operate in real-world scenarios and how organizations can map such attacks using frameworks like the Cyber Kill Chain to improve their detection and response strategies.
