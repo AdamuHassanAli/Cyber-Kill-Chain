@@ -26,7 +26,7 @@ In this lab, I explored the Cyber Kill Chain, a model developed by Lockheed Mart
 <li>Cyber threat intelligence interpretation</li>
 <li>SOC-aligned analysis and reporting</li>
 
-<h2>Paractical Scenario</h2>
+# Paractical Scenario
 <b>Platform:</b> TryHackMe | <b>Type:</b> Practical Scenario | <b>Focus:</b> Incident Analysis, Cyber Kill Chain
 <h2>Summary:</h2>
 This hands-on exercise involved analyzing one of the most significant real-world data breaches — the 2013 Target cyber-attack, which affected approximately 40 million credit and debit card accounts. The exercise aimed to apply my knowledge of threat analysis by reconstructing the attack using the Cyber Kill Chain framework.
@@ -51,11 +51,11 @@ I deployed a static site lab environment where I reconstructed the Target attack
 <img src="https://github.com/AdamuHassanAli/Cyber-Kill-Chain/blob/main/Images/Cyber%20Kill%20Chain%20Answer.jpeg?raw=true"/>
 <br>
 
-<center>
-<b>Here is the catch the flag</b>
-</center>
 
-<img src=" "/>
+<b>Here is the catched flag</b>
+
+<br>
+<img src="https://github.com/AdamuHassanAli/Cyber-Kill-Chain/blob/81b561f7725d90a9fa8e6c93b117956c635c818d/Images/Cyber%20Kill%20Chain%20CTF.jpeg "/>
 
 <h3>Outcome:</h3>
 This exercise strengthened my incident analysis and threat modeling skills. I gained a practical understanding of how advanced persistent threats (APTs) operate in real-world scenarios and how organizations can map such attacks using frameworks like the Cyber Kill Chain to improve their detection and response strategies.
