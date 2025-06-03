@@ -48,14 +48,17 @@ I deployed a static site lab environment where I reconstructed the Target attack
 <li><b>Actions on Objectives</b> – Data from local system</li>
 <br>
 
+<p align="center">
+<b>I reconstructed the Target attack by mapping attacker actions to each phase of the Cyber Kill Chain:</b> <br/>
 <img src="https://github.com/AdamuHassanAli/Cyber-Kill-Chain/blob/main/Images/Cyber%20Kill%20Chain%20Answer.jpeg?raw=true"/>
-<br>
-
-
-<b>Here is the catched flag</b>
-
-<br>
+<br/>
+<br/>
+  
+<p align="center">
+<b>Here is the flag I catched</b>: <br/>
 <img src="https://github.com/AdamuHassanAli/Cyber-Kill-Chain/blob/81b561f7725d90a9fa8e6c93b117956c635c818d/Images/Cyber%20Kill%20Chain%20CTF.jpeg "/>
-
+<br/>
+<br/>
+  
 <h3>Outcome:</h3>
 This exercise strengthened my incident analysis and threat modeling skills. I gained a practical understanding of how advanced persistent threats (APTs) operate in real-world scenarios and how organizations can map such attacks using frameworks like the Cyber Kill Chain to improve their detection and response strategies.
