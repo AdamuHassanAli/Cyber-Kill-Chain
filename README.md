@@ -39,14 +39,23 @@ This hands-on exercise involved analyzing one of the most significant real-world
 
 <h2>What I Did:</h2>
 I deployed a static site lab environment where I reconstructed the Target attack by mapping attacker actions to each phase of the Cyber Kill Chain. I identified the following techniques and correctly aligned them:<br>
-<li><b>Reconnaissance</b>– Spearphishing attachment</li>
-<li><b>Weaponization</b> – Dynamic linker hijacking</li>
+<li><b>Reconnaissance</b> -Fill not required</li>
+<li><b>Weaponization</b> – PowerShell</li>
 <li><b>Delivery</b> – Spearphishing attachment</li>
 <li><b>Exploitation</b> – Exploit public-facing application</li>
+<li><b>Installation</b> – Dynamic linker hijacking</li>
 <li><b>Command and Control (C2)</b> – Fallback channels</li>
 <li><b>Actions on Objectives</b> – Data from local system</li>
 <br>
 
-https://github.com/AdamuHassanAli/Cyber-Kill-Chain/blob/main/Images/Cyber%20Kill%20Chain%20Answer.jpeg?raw=true
+<img src="https://github.com/AdamuHassanAli/Cyber-Kill-Chain/blob/main/Images/Cyber%20Kill%20Chain%20Answer.jpeg?raw=true"/>
+<br>
+
+<center>
+<b>Here is the catch the flag</b>
+</center>
+
+<img src=" "/>
+
 <h3>Outcome:</h3>
 This exercise strengthened my incident analysis and threat modeling skills. I gained a practical understanding of how advanced persistent threats (APTs) operate in real-world scenarios and how organizations can map such attacks using frameworks like the Cyber Kill Chain to improve their detection and response strategies.
